@@ -1,0 +1,5 @@
+post_id,author,timestamp,content,topic,theme
+post-cs-101,dev_timothy,2026-09-28 10:15:00,"Does the quantized index support incremental updates without a full index rebuild? Reach me at timothy.w@enterprise-corp.com if you need a reproduction trace.",Benchmarking,question
+post-cs-103,sarah_cloud,2026-09-28 14:20:00,"Still waiting for official Azure Private Link support. When can our security team expect compliance sign-off? Call our office at +1 (555) 439-0199.",Security,concern
+post-cs-106,marcus_devops,2026-09-29 11:00:00,"The PayScale case study matches our exact migration path from Trino. Fantastic speedups on partition scans.",Case Study,praise
+post-cs-101,victor_data,2026-09-29 13:45:00,"Can we configure custom distance metrics (like Cosine with L2 normalization) directly in the REST query header?",Benchmarking,feature_request

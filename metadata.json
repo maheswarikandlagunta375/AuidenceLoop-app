@@ -1,0 +1,6 @@
+{
+  "name": "AudienceLoop - Social Media Engagement Agent",
+  "description": "Evidence-grounded social media intelligence agent learning brand engagement patterns, audience conversations, and post timing to recommend verified publishing strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
